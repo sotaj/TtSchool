@@ -20,6 +20,7 @@ import javax.swing.border.EmptyBorder;
 
 import testOut.TextAreaOutputStream;
 
+
 public class PingMain extends JFrame {
 
 	private JPanel contentPane;
